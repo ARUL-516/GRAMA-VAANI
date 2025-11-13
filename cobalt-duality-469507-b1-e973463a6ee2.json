@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "cobalt-duality-469507-b1",
-  "private_key_id": "e973463a6ee2d2decb5ccb6e2df5abe02923d3ea",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDk0JCCULDM8Bsz\nDsLky9ImlfH2wlcIwRP3Z+7Yaj0Snwv6Hgmwr+wHcymUGzGpKb2PiIOF0LWR5Iwq\nm/MfBX8feF4a10VWD6aR7GPnvwmUnnr5EsFbr/GnovpHAjJimAxezkiO3raxmSep\nB8Fke7h70WMD0kjsM2Sf/L+SmEQmaMRNcNa1RaW3wL6xCrsMR9aZkVU4sUwt52TE\nvameeWgVMrD+sdjfT9Cgs9s+RRMcNnSRqrNCAzfaguFFI0gNB43mclZsHFFJy4lV\ngKwXh2oZHUyl1LnzGHUwWfdQdoQU8XCQNAJLtgQyI50gNBDVGwVGFbVtUI84uYrC\nXdD+200jAgMBAAECggEAEz6XaN5wgEwRfZHYQnYCDsy9tQtTVqEmlMBhDkKhMFfA\nIiE0n2+sYlQFQzemTZv9HX1V0oNjQgn+3/aN1CYaMwNkps1EP6DBWbSQEoW2wJEz\nto8lRBjgMkE6244Lvs8a+z5OS/XfV8CR3V2RnmnpckCCG2gsSfFonSwc0K+Ny80L\nOgiEkJhe1QW9Arx9qePpT8nOmcbHpABtOWU8/OKCry3L+O1F1Cn2AcaCFk0yy+4g\nmW9ZBweUv8Gro4HbdS36Fa/KqlD0y1gncXfJ4sCu2dppK7ZJROBbENhnEC1KhXW4\nA4ml0mAR5B2WtZa5j4xzlfvmJ552+chTVwJzcef9wQKBgQD54d4GttvObpDWCzPK\nymWJteUxwCjteBSPVqvv5/batimHoIca4aW1HlVHJTue7wmPETtWoqK0MHAnL2zX\nmab2uUJ+Bz4fJWvNg5BzMHEWnFzzJwCwVVHsEDJJ3xuqoQQ/3VRd5hMPZpU7RJKi\nGXCy1wjsTWi3MInrHhunrGL9lwKBgQDqaqgOXO4j8mcs/dPyj9ZDDqCx+xHHW+eV\ncC8nOPLH/4Y6hMAqC8sTKVvMWbhnfcJsBjJQEKwiuEP8WjHXyYLOvUMmUn5gYu/E\nSltyAPoDfFI6vmOY441RtVuy/TpmJMZLZGYUymziBeoGTu5iLjIqMWVlA3P8D6ZI\nW4liteL2VQKBgFDvaoWMNrevMjRR3o2hbq/i/YBWuCrqSOaAcSI8ZMVEWUE3qmr3\niT+XupFXqu74h4USVMDj3oU0Zy8Z+kv+1Yh2SuYdHG7kJP2kzmWw3AAx1x1elaeH\niwhF2rP4krJ6grDY1FmxipzjYhSXSlM8oDcc1SQMko07KIDB+L0fZdSzAoGAbirR\n8G4cPSie9LYV9dlDiSBGxV6JbHf0znZ6sqRA9V1RaA8bgKcqOUcmrVM9JuYjiUEg\nRCCRxX9z9BUvd4psv1yTQl9ipUnaBRYtA9cRqLG0s4bmp+PJdq0U+3mnCHof9y6o\nCv1XTqIY6f4OanXrfYjZbi/BQqTYMQlT9+AjWkECgYEA3GYWfUxz/ERoNl7Vihil\n7ISZBFpwMPHR64sSDG85wT8JjJXNyHMeBTxFwfGPdFXN7Ifn62AlEGVLPnTiZHE9\nPzXlSIVITBW/CCM63vwuaslw2xbtUe3PmQ5cQyo9SX9YUOEurfIB2nx6YOhF5YLk\nua6gq4mu+fBp6j0u2QFHsiE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "grama-vani@cobalt-duality-469507-b1.iam.gserviceaccount.com",
-  "client_id": "116307589504712081962",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grama-vani%40cobalt-duality-469507-b1.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
